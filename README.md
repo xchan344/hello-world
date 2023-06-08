@@ -1,3 +1,3 @@
 # hello-world
-joy alam mo joy, sobrang saya ko
+world hello
 ## Hello-earth
